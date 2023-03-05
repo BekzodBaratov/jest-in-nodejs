@@ -1,0 +1,18 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mylib.js",
+  "scripts": {
+    "start": "node mylib.js",
+    "dev": "nodemon mylib.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3",
+    "nodemon": "^2.0.21"
+  }
+}
